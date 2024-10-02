@@ -1,5 +1,3 @@
-тэд заснул, поэтому сделаю за него страйк
-
 <h1 align="center">Hi, I am Teo!</h1>
 
 ### I am a Junior Programmer from Latvia. I have been working in the field of programming since 2019. Here are some areas that I know:
